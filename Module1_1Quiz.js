@@ -1,0 +1,1 @@
+Console.log ("JS is cool");
